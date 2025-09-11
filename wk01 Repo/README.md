@@ -1,0 +1,1 @@
+This is the Week 1 repo from CSCI 70900, Fall 2025.
